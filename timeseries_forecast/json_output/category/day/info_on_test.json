@@ -1,0 +1,1 @@
+[{"best_model": "SeasonalNaive", "mape_test": 0.06864582703623895, "wape_test": 0.40909565757803407, "mad_test": 11.066666666666666, "mean_test": 168.0, "mean_preds": 174.93333333333334, "mape_cv": 0.13008694395722198, "wape_cv": 0.7434290446487856, "cat_name": "laptop", "cat_id": "01-N001"}]

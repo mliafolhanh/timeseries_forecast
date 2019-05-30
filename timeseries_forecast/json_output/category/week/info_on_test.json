@@ -1,0 +1,1 @@
+[{"best_model": "DecomposeArima", "mape_test": 0.24377224199288255, "wape_test": 2.1746031746031744, "mad_test": 274.0, "mean_test": 1124.0, "mean_preds": 1398.0, "mape_cv": 0.0024547650870024567, "wape_cv": 0.15377009788083792, "cat_name": "laptop", "cat_id": "01-N001"}]

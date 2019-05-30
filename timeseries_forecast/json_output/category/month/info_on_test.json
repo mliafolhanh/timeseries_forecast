@@ -1,0 +1,1 @@
+[{"best_model": "HoltWinter", "mape_test": 0.19102511321531496, "wape_test": 1.195876288659794, "mad_test": 928.0, "mean_test": 4858.0, "mean_preds": 5786.0, "mape_cv": 0.10135127667238313, "wape_cv": 0.394878616339362, "cat_name": "laptop", "cat_id": "01-N001"}]

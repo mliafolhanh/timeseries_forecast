@@ -1,0 +1,26 @@
+---
+profile: default
+providers:
+    fact:
+        service: hdfs
+        hostname: bigdata-m.teko.vn
+        port: 18020
+        path: /teko/prod/etl/fact
+engine:
+    type: spark
+    master: spark://bigdata-m.teko.vn:17077
+    jobname: 'hanh-product-analysis'
+    config:
+        spark.sql.shuffle.partitions: 8
+        spark.default.parallelism: 8
+loggers:
+    root:
+        severity: info
+    datalabframework:
+        name: dlf
+        stream:
+            enable: true
+            severity: warning
+resources:
+    fact_table: 
+        provider: fact

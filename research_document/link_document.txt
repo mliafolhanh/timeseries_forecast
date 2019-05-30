@@ -1,0 +1,17 @@
+https://frepple.com/blog/demand-classification/
+feature selection:
+ - https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+- https://www.quora.com/What-are-the-feature-selection-options-for-categorical-data
+
+chi-square-feature-selection:
+https://www.linkedin.com/pulse/chi-square-feature-selection-python-md-badiuzzaman-biplob/
+
+time_series_forecasting:
+- https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
+- https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+- https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788
+
+Course:
+- https://newonlinecourses.science.psu.edu/stat510/
+Validation
+- https://kourentzes.com/forecasting/2016/06/17/how-to-choose-a-forecast-for-your-time-series/
